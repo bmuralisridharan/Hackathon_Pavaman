@@ -17,8 +17,8 @@ def app():
 
         st.markdown("### Step 1: Clone the Repository")
         st.code("""
-git clone https://github.com/muraxxxsrin/PAVAMAN.git
-cd PAVAMAN
+git clone https://github.com/bmuralisridharan/Hackathon_Pavaman.git
+cd Hackathon_Pavaman
         """, language="bash")
 
         st.markdown("---")
