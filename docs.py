@@ -14,7 +14,7 @@ def app():
 
     with st.container():
       
-
+        st.markdown("Version above 3.10 don't support TensorFlow right now.....So use version 3.10")
         st.markdown("### Step 1: Clone the Repository")
         st.code("""
 git clone https://github.com/bmuralisridharan/Hackathon_Pavaman.git
